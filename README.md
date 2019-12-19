@@ -51,3 +51,8 @@ month the property was sold
 8.1 Group by City, the table lists one city for all addresses in that city. (i.e., the city should not be
 repeated for each address)
 9. We would like to filter the report by sale date, square ft, city and property type
+
+##  T_SQL SKILLS ASSESSMENT - INSTRUCTIONS
+ <ul>
+  <li> You will find the T-SQL instructions  and questions in this file under the title T_Sql questions.
+  
