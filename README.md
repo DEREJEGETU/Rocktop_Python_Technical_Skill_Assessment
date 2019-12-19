@@ -1,5 +1,6 @@
 # Rocktop_Python_Technical_Skill_Assessment
 Introduction
+
 This notebook is produced for Rocktop Partners Technical Skills Assessment test for the position of Junior Data Analyst. 48 hours were given to complete three (Power BI, SQL and Python) technical assessment skill tests.
 
 Instruction
